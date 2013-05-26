@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>3497CFC9-F603-45E6-A46E-136A9146EB20</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>scholar</string>
+			<key>plusSpaces</key>
+			<false/>
+			<key>text</key>
+			<string>Google Scholar</string>
+			<key>url</key>
+			<string>http://scholar.google.it/scholar?hl=it&amp;q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>3EAE06A8-D5C3-49F3-AB48-0C33E27C2A9B</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>rpackages</string>
+			<key>plusSpaces</key>
+			<false/>
+			<key>text</key>
+			<string>R packages custom search</string>
+			<key>url</key>
+			<string>http://www.google.com/cse?cx=010192404287058830058%3Auxbur3wo5ls&amp;ie=UTF-8&amp;q=hi&amp;sa=Search&amp;siteurl=www.google.com%2Fcse%2Fhome%3Fcx%3D010192404287058830058%3Auxbur3wo5ls&amp;ref=&amp;ss=167j27889j2#gsc.tab=0&amp;gsc.q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>4B4525B5-A9BB-467E-BE78-9DED927E0C3E</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>data</string>
+			<key>plusSpaces</key>
+			<false/>
+			<key>text</key>
+			<string>freely available datasets</string>
+			<key>url</key>
+			<string>http://www.google.com/cse?cx=010192404287058830058%3A_ctspetcweq&amp;ie=UTF-8&amp;q=hi&amp;siteurl=www.google.com%2Fcse%2Fhome%3Fcx%3D010192404287058830058%3A_ctspetcweq&amp;ref=&amp;ss=176j30976j2&amp;oq=hi&amp;gs_l=partner.3..0l10.211786.211927.0.212270.2.2.0.0.0.0.179.179.0j1.1.0.gsnos%2Cn%3D13.1.0.0.175j30625j2..1ac.1.Te2L4EDSr70#gsc.tab=0&amp;gsc.q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>C71C1B00-3A33-4BC2-951F-AB44F0B4337E</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>course</string>
+			<key>plusSpaces</key>
+			<false/>
+			<key>text</key>
+			<string>free courses</string>
+			<key>url</key>
+			<string>http://www.google.com/cse?cx=010192404287058830058%3Ajvlzwx9uvu4&amp;ie=UTF-8&amp;q=hi&amp;sa=Search&amp;siteurl=www.google.com%2Fcse%2Fhome%3Fcx%3D010192404287058830058%3Ajvlzwx9uvu4&amp;ref=www.google.com%2Fcse%2Fpanel%2Fbasics%3Fcx%3D010192404287058830058%253Ajvlzwx9uvu4&amp;ss=200j40000j2#gsc.tab=0&amp;gsc.q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>DF7A7151-EA72-44B8-85F3-A67029BF49F5</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>kindle</string>
+			<key>plusSpaces</key>
+			<false/>
+			<key>text</key>
+			<string>Kindle books</string>
+			<key>url</key>
+			<string>http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-text&amp;field-keywords={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>onlyShowEnabledInPrefs</key>
+	<true/>
+</dict>
+</plist>
