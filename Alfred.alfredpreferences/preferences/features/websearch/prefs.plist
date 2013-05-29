@@ -79,6 +79,21 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
+		<key>FEF88A73-BA5E-4D1E-AFED-B66D42889A49</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>zotero</string>
+			<key>plusSpaces</key>
+			<false/>
+			<key>text</key>
+			<string>zotero</string>
+			<key>url</key>
+			<string>https://www.zotero.org/search/type/group/q/{query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>onlyShowEnabledInPrefs</key>
 	<true/>
